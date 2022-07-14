@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Neobotz+By+Lexxy+Official+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Neobotz+By+IYANZ+Official+🙏"
             alt="Subscribe Yt Lexxy Official"
         />
     </a>
@@ -34,8 +34,8 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > pkg install yarn
 > termux-setup-storage
-> git clone https://github.com/Lexxy24/NEOBOTV3.git
-> cd NEOBOTV3
+> git clone https://github.com/INTEXSTORE/neov3.git
+> cd neov3
 > yarn
 > npm start
 ```
